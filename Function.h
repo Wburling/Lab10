@@ -6,7 +6,7 @@
 #define LAB10TRUE_FUNCTION_H
 
 #include <iostream>
-void displayName(std::string name) {
+void displayName2(std::string name) {
     std::cout << name << " is a great name"<< std::endl;
 }
 
